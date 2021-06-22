@@ -1,0 +1,15 @@
+[
+	{
+		"isDefault": true,	
+		"uuid": "49fd712a-6d6b-4d94-93f7-c28de51680bd",
+		"errors": [],
+		"name": "terraformcode",
+		"type": "GIT",
+		"host": "https://github.com",
+		"branch": "<branch-name>",
+		"token": "<github-personal-access-token>",
+		"owner":"<repository-owner-account-name>",
+		"url":"https://github.com",
+		"vcsRepoToken":"<terraform-vcs-token-for-git-repository>"
+	}
+]

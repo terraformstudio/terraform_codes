@@ -1,0 +1,42 @@
+[
+	{
+        "global": false,
+        "name": "EC2_Policies",
+        "description": "Checkov EC2 policies",
+        "version": "1.0.0",
+        "uuid": "576ae588-f2fc-4bca-8a07-3d470a36b07e",
+        "type": "checkov",
+        "repository": {
+            "isDefault": true,	
+            "uuid": "49fd712a-6d6b-4d94-93f7-c28de51680bc",
+            "errors": [],
+            "name": "ishara93/checkov_policies",
+            "type": "GIT",
+            "host": "https://github.com",
+            "branch": "main",
+            "token": "",
+            "owner":"ishara93",
+            "url":"https://github.com/ishara93/checkov_policies.git"
+        }
+    },
+    {
+        "global": false,
+        "name": "VPC_Policies",
+        "description": "Checkov VPC policies",
+        "version": "1.0.0",
+        "uuid": "576ae588-f2fc-4bca-8a07-3d470a36b07b",
+        "type": "checkov",
+        "repository": {
+            "isDefault": true,	
+            "uuid": "49fd712a-6d6b-4d94-93f7-c28de51680bs",
+            "errors": [],
+            "name": "ishara93/checkov_policies",
+            "type": "GIT",
+            "host": "https://github.com",
+            "branch": "main",
+            "token": "",
+            "owner":"ishara93",
+            "url":"https://github.com/ishara93/checkov_policies.git"
+        }
+    }
+]

@@ -1,0 +1,4 @@
+{
+ "server_webhook" : "http://35.192.221.27:6767/generic-webhook-trigger/invoke?token=accello",
+ "server_secret" : ""
+}

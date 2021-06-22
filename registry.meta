@@ -1,0 +1,20 @@
+[ {
+"isDefault": true,
+"name": "app.terraform.io",
+"nameSpace": "<terraform-cloud-namespace>",
+"token": "SRJ9dPVTEHsPaA.atlasv1.3YMMPHYnc0PGDnf4jkjE3qQeHrhAvy58Fjx15NQvssri7z0cbyImwjtuC0RM4nzaSrA",
+"type": "PRIVATE",
+"url": "https://app.terraform.io",
+"subType":"cloud"
+
+},
+{
+"isDefault": false,
+"name": "registry.terraform.io",
+"nameSpace": "hashicorp",
+"token": "",
+"type": "PUBLIC",
+"url": "https://registry.terraform.io",
+"subType":"cloud"
+}
+]
